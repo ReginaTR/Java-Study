@@ -7,6 +7,8 @@ public class Gato {
     private String color;
     private Integer age;
 
+
+
     public Gato(){}
 
     public Gato(String name, String color, Integer age) {
@@ -60,5 +62,6 @@ public class Gato {
                 '}';
     }
 }
+
 
 
